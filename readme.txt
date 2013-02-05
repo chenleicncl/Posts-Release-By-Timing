@@ -35,7 +35,13 @@ it all reason is that avoid to realize same function repetition.
 
 == Screenshots ==
 
-[ChenLei Wordpress Plugin Development Page](http://www.qchenlei.com/posts-release-by-timing-plugin)
+[The plugin options screenshot en_US](http://plugins.svn.wordpress.org/posts-release-by-timing/assets/screenshot-1.jpg)
+
+[The plugin options screenshot zh_CN](http://plugins.svn.wordpress.org/posts-release-by-timing/assets/screenshot-2.jpg)
+
+== Upgrade Notice ==
+
+The version 1.2 is add language zh_CN.
 
 == Upgrade Notice ==
 
