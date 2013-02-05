@@ -3,7 +3,7 @@ Contributors: chenleicncl
 Donate link: 
 Tags: timing release
 Requires at least: 3.0.1
-Tested up to:3.4
+Tested up to:3.5.1
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -38,10 +38,6 @@ it all reason is that avoid to realize same function repetition.
 [The plugin options screenshot en_US](http://plugins.svn.wordpress.org/posts-release-by-timing/assets/screenshot-1.jpg)
 
 [The plugin options screenshot zh_CN](http://plugins.svn.wordpress.org/posts-release-by-timing/assets/screenshot-2.jpg)
-
-== Upgrade Notice ==
-
-The version 1.2 is add language zh_CN.
 
 == Upgrade Notice ==
 
